@@ -1,6 +1,5 @@
 # Mapping Application
-
-Time spent: 2 days in total
+This application allows users to keep track of the places they've visited through an interactive map and a user interface, implemented with a form
 
 ## Libraries
 - Leaflet.js
