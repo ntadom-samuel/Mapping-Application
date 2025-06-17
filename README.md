@@ -9,6 +9,9 @@ This application allows users to keep track of the places they've visited throug
 - Local Storage
 - Advanced DOM Manipulation
 
+## APIS
+- Geolocation
+
 ## Features
 - [x] Responsive
 - [x] Dynamic
