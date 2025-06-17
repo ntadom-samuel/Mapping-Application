@@ -1,3 +1,14 @@
+# Mapping Application
+
+Time spent: 2 days in total
+
+## Features
+- [x] Responsive
+- [x] Dynamic
+
+
+## Notes
+All credits to <a href="https://www.udemy.com/course/the-complete-javascript-course/?couponCode=24T7MT123024">The Complete JavaScript Course 2025: From Zero to Expert!</a>. 
 # Tourist Application: CSS, Advanced JavaScript(ES6 Classes, Local Storage, e.t.c) and Leaflet.js
 ## Video
 <div>
