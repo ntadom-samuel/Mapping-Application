@@ -22,9 +22,5 @@ Time spent: 2 days in total
     </a>
   </div>
 
-# <a href="https://omnifood-irentadom.netlify.app/">Omnifood</a>: Web Desigh, Image Optimization, HTML, CSS, and JavaScript
-
-
 ## Notes
-All credits to <a href="https://www.udemy.com/course/the-complete-javascript-course/?couponCode=24T7MT123024">The Complete JavaScript Course 2025: From Zero to Expert!</a>. 
-# Tourist Application: CSS, Advanced JavaScript(ES6 Classes, Local Storage, e.t.c) and Leaflet.js
+All credits to <a href="https://www.udemy.com/course/the-complete-javascript-course/?couponCode=24T7MT123024">The Complete JavaScript Course 
