@@ -2,6 +2,14 @@
 
 Time spent: 2 days in total
 
+## Libraries
+- Leaflet.js
+
+## Concepts
+- ES6 Classes
+- Local Storage
+- 
+
 ## Features
 - [x] Responsive
 - [x] Dynamic
